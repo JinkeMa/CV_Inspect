@@ -25,9 +25,9 @@ C++内存分为代码区和数据区(常量区、静态/全局存储区<两者�
 |----|----|----|----|----|----|----|----|----|
 | char |  |  |  |  |int[0] | int[1] | int[2] | int[3] |  
 
-`struct myStr{
-char x1;
-int x2;
+`struct myStr{  
+  char x1;  
+  int x2;  
 }`
 假设cacheline大小是4字节，int的大小是4字节；CPU寻址从char开始
 >1.非对齐：第一次读取到 char、int[0]、int[1]、int[2]、第二次读取到int[3]、 、 、 、，然后将两次读取的内容合并才能得到完整的int  
