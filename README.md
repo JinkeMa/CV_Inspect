@@ -9,20 +9,20 @@
 ### 🐍 语言
 | 序号 | 进度 | 标题 |
 | ---- | ---- | ---- |
-| 1 | 0% | `:smiling_face_with_three_hearts:` |
-| 2 | 0% | `:star_struck:` |
+| 1 | 0% | :smiling_face_with_three_hearts:|
+| 2 | 0% | :star_struck: |
 ### 🐋 算法
 | 序号 | 进度 | 标题 |
 | ---- | ---- | ---- |
-| 1 | 0% | `:smiling_face_with_three_hearts:` |
-| 2 | 0% | `:star_struck:` |
+| 1 | 0% | :smiling_face_with_three_hearts: |
+| 2 | 0% | :star_struck: |
 ### 🐘 CV
 | 序号 | 进度 | 标题 |
 | ---- | ---- | ---- |
-| 1 | 0% | `:smiling_face_with_three_hearts:` |
-| 2 | 0% | `:star_struck:` |
+| 1 | 0% | :smiling_face_with_three_hearts: |
+| 2 | 0% | :star_struck: |
 ### 🦉 ML
 | 序号 | 进度 | 标题 |
 | ---- | ---- | ---- |
-| 1 | 0% | `:smiling_face_with_three_hearts:` |
-| 2 | 0% | `:star_struck:` |
+| 1 | 0% | :smiling_face_with_three_hearts: |
+| 2 | 0% | :star_struck: |
