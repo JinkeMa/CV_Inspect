@@ -43,7 +43,7 @@ auto func(T x,T y)
  return x+y;
 }
 ```
-* 🍒 `decltype(auto)`用于函数转发 自动类型推导，可以避免写冗长的函数返回类型
+* 🍒 `decltype(auto)`用于函数参数转发时，自动类型推导，可以避免写冗长的函数返回类型
 ```
 std::string& func0()
 {
